@@ -1,4 +1,4 @@
-﻿# See the documentation on the wiki to learn how to edit this file.
+﻿# Consulta la documentación en la wiki para aprender a editar este archivo.
 #-------------------------------
 [001]   # Intro
 Name = Intro
@@ -102,6 +102,14 @@ Weather = Rain,100
 MapPosition = 0,14,8
 BattleBack = field
 MapSize = 1,11
+#-------------------------------
+[022]   # Colonia
+Name = Ciudad de Colonia
+Outdoor = true
+ShowArea = true
+Bicycle = true
+SnapEdges = true
+Dungeon = false
 #-------------------------------
 [023]   # Lerucean Town
 Name = Lerucean Town
